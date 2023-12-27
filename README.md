@@ -27,6 +27,12 @@ Supervised learning involves training algorithms on labeled data. This project a
 - Evaluated algorithm performance using confusion matrices on unseen test data.
 - Detailed breakdown of TP, FP, TN, FN for each model.
 
+![KNN Confusion Matrix](https://github.com/sacadelmi/Supervised-Learning/blob/main/knn_confusion_matrix.png)
+![Logistic Regression Confusion Matrix](https://github.com/sacadelmi/Supervised-Learning/blob/main/logisticr_confusion_matrix.png)
+![Decision Tree Confusion Matrix](https://github.com/sacadelmi/Supervised-Learning/blob/main/decisiontree_confusion_matrix.png)
+
+
+
 ### Evaluation Metrics
 - Calculated precision, recall, F1-score, and accuracy for each model on the testing data.
 
