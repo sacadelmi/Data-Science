@@ -1,4 +1,4 @@
-Binary Classification Comparison
+# Binary Classification Comparison
 
 ## Overview
 This project compares three supervised learning methods - KNN, Logistic Regression, and Decision Tree - on a binary classification problem using Python.
