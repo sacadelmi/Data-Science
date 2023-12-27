@@ -22,6 +22,10 @@ Supervised learning involves training algorithms on labeled data. This project a
 - Cross-validated the training data to find optimal hyperparameters for each algorithm.
 - Plotted cross-validation results against hyperparameters to select the best values.
 
+![KNN](https://github.com/sacadelmi/Supervised-Learning/blob/main/knn_evaluation.png)
+![Logistic Regression](https://github.com/sacadelmi/Supervised-Learning/blob/main/logisticr_evaluation.png)
+![Decision Tree](https://github.com/sacadelmi/Supervised-Learning/blob/main/decisiontree_evaluation.png)
+
 ## Evaluation
 ### Confusion Matrix
 - Evaluated algorithm performance using confusion matrices on unseen test data.
