@@ -1,8 +1,9 @@
-# Data Science Project: Binary Classification Comparison
+# Sacad_Portfolio
+A portfolio of data science projects :)
+
+# [Project 1: Binary Classification Comparison](https://github.com/sacadelmi/Data-Science)
 
 ## Overview
-- **Name:** Sacad Elmi
-
 This project compares three supervised learning methods - KNN, Logistic Regression, and Decision Tree - on a binary classification problem using Python.
 
 ## Introduction
