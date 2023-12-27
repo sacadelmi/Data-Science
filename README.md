@@ -2,7 +2,7 @@
 
 ## Overview
 - **Name:** Sacad Elmi
-- 
+
 This project compares three supervised learning methods - KNN, Logistic Regression, and Decision Tree - on a binary classification problem using Python.
 
 ## Introduction
