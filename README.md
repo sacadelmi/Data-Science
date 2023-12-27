@@ -1,13 +1,10 @@
-# Sacad_Portfolio
-A portfolio of data science projects :)
-
-# [Project 1: Binary Classification Comparison](https://github.com/sacadelmi/Data-Science)
+Binary Classification Comparison
 
 ## Overview
 This project compares three supervised learning methods - KNN, Logistic Regression, and Decision Tree - on a binary classification problem using Python.
 
 ## Introduction
-Supervised learning involves training algorithms on labeled data. This report aims to compare the performance of these algorithms.
+Supervised learning involves training algorithms on labeled data. This project aims to compare the performance of these algorithms.
 
 ## Justification of Libraries Used
 - **Pandas:** Data manipulation and loading datasets.
