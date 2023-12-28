@@ -35,8 +35,6 @@ Supervised learning involves training algorithms on labeled data. This project a
 ![Logistic Regression Confusion Matrix](https://github.com/sacadelmi/Supervised-Learning/blob/main/logisticr_confusion_matrix.png)
 ![Decision Tree Confusion Matrix](https://github.com/sacadelmi/Supervised-Learning/blob/main/decisiontree_confusion_matrix.png)
 
-
-
 ### Evaluation Metrics
 - Calculated precision, recall, F1-score, and accuracy for each model on the testing data.
 
@@ -50,8 +48,9 @@ Supervised learning involves training algorithms on labeled data. This project a
 
 ## Conclusion
 ### Analysis of Models
-- All algorithms performed well, but KNN showed the highest performance across evaluation metrics.
-- Pros and cons highlighted for each algorithm based on their performance and characteristics.
+Based on my analysis of the confusion matrix and evaluation metrics I have deduced that all three of my algorithms performed well on the unseen training dataset. The common advantage of each of my algorithms is that they were all simple to understand and implement. KNN had the highest performance on all evaluation metrics. The model is effective in identifying non-linear decision boundaries between classes. However, the cons of the model are that it can be sensitive to the choice of k and it can be computationally expensive. 
+
+Logistic Regression also performed nearly as well as KNN, however cons of the algorithm suggest that it can be quite sensitive to outliers. Decision Tree underperformed comparatively to my other two algorithms this could be due to overfitting. Also, to note a common con of the Decision Tree is that it is sensitive to small variations in the training data.
 
 ### Personal Reflection
 - Experience gained with scikit-learn and understanding cross-validation.
